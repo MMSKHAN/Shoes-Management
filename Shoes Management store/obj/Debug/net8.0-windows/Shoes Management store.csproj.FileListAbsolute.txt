@@ -1,0 +1,146 @@
+E:\Study\6th\vp\practicals\Shoes Management store\Shoes Management store\bin\Debug\net8.0-windows\Shoes Management store.exe
+E:\Study\6th\vp\practicals\Shoes Management store\Shoes Management store\bin\Debug\net8.0-windows\Shoes Management store.deps.json
+E:\Study\6th\vp\practicals\Shoes Management store\Shoes Management store\bin\Debug\net8.0-windows\Shoes Management store.runtimeconfig.json
+E:\Study\6th\vp\practicals\Shoes Management store\Shoes Management store\bin\Debug\net8.0-windows\Shoes Management store.dll
+E:\Study\6th\vp\practicals\Shoes Management store\Shoes Management store\bin\Debug\net8.0-windows\Shoes Management store.pdb
+E:\Study\6th\vp\practicals\Shoes Management store\Shoes Management store\obj\Debug\net8.0-windows\Shoes_Management_store.Customer.resources
+E:\Study\6th\vp\practicals\Shoes Management store\Shoes Management store\obj\Debug\net8.0-windows\Shoes_Management_store.Form1.resources
+E:\Study\6th\vp\practicals\Shoes Management store\Shoes Management store\obj\Debug\net8.0-windows\Shoes_Management_store.Home.resources
+E:\Study\6th\vp\practicals\Shoes Management store\Shoes Management store\obj\Debug\net8.0-windows\Shoes_Management_store.Invantory.resources
+E:\Study\6th\vp\practicals\Shoes Management store\Shoes Management store\obj\Debug\net8.0-windows\Shoes_Management_store.Report.resources
+E:\Study\6th\vp\practicals\Shoes Management store\Shoes Management store\obj\Debug\net8.0-windows\Shoes_Management_store.Sales.resources
+E:\Study\6th\vp\practicals\Shoes Management store\Shoes Management store\obj\Debug\net8.0-windows\Shoes Management store.csproj.GenerateResource.cache
+E:\Study\6th\vp\practicals\Shoes Management store\Shoes Management store\obj\Debug\net8.0-windows\Shoes Management store.GeneratedMSBuildEditorConfig.editorconfig
+E:\Study\6th\vp\practicals\Shoes Management store\Shoes Management store\obj\Debug\net8.0-windows\Shoes Management store.AssemblyInfoInputs.cache
+E:\Study\6th\vp\practicals\Shoes Management store\Shoes Management store\obj\Debug\net8.0-windows\Shoes Management store.AssemblyInfo.cs
+E:\Study\6th\vp\practicals\Shoes Management store\Shoes Management store\obj\Debug\net8.0-windows\Shoes Management store.csproj.CoreCompileInputs.cache
+E:\Study\6th\vp\practicals\Shoes Management store\Shoes Management store\obj\Debug\net8.0-windows\Shoes Management store.dll
+E:\Study\6th\vp\practicals\Shoes Management store\Shoes Management store\obj\Debug\net8.0-windows\refint\Shoes Management store.dll
+E:\Study\6th\vp\practicals\Shoes Management store\Shoes Management store\obj\Debug\net8.0-windows\Shoes Management store.pdb
+E:\Study\6th\vp\practicals\Shoes Management store\Shoes Management store\obj\Debug\net8.0-windows\Shoes Management store.genruntimeconfig.cache
+E:\Study\6th\vp\practicals\Shoes Management store\Shoes Management store\obj\Debug\net8.0-windows\ref\Shoes Management store.dll
+E:\Study\6th\vp\practicals\Shoes Management store\Shoes Management store\bin\Debug\net8.0-windows\Azure.Core.dll
+E:\Study\6th\vp\practicals\Shoes Management store\Shoes Management store\bin\Debug\net8.0-windows\Azure.Identity.dll
+E:\Study\6th\vp\practicals\Shoes Management store\Shoes Management store\bin\Debug\net8.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+E:\Study\6th\vp\practicals\Shoes Management store\Shoes Management store\bin\Debug\net8.0-windows\Microsoft.Data.SqlClient.dll
+E:\Study\6th\vp\practicals\Shoes Management store\Shoes Management store\bin\Debug\net8.0-windows\Microsoft.Identity.Client.dll
+E:\Study\6th\vp\practicals\Shoes Management store\Shoes Management store\bin\Debug\net8.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+E:\Study\6th\vp\practicals\Shoes Management store\Shoes Management store\bin\Debug\net8.0-windows\Microsoft.Identity.Client.NativeInterop.dll
+E:\Study\6th\vp\practicals\Shoes Management store\Shoes Management store\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Abstractions.dll
+E:\Study\6th\vp\practicals\Shoes Management store\Shoes Management store\bin\Debug\net8.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\Study\6th\vp\practicals\Shoes Management store\Shoes Management store\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Logging.dll
+E:\Study\6th\vp\practicals\Shoes Management store\Shoes Management store\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.dll
+E:\Study\6th\vp\practicals\Shoes Management store\Shoes Management store\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\Study\6th\vp\practicals\Shoes Management store\Shoes Management store\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Tokens.dll
+E:\Study\6th\vp\practicals\Shoes Management store\Shoes Management store\bin\Debug\net8.0-windows\Microsoft.SqlServer.Server.dll
+E:\Study\6th\vp\practicals\Shoes Management store\Shoes Management store\bin\Debug\net8.0-windows\Microsoft.Web.WebView2.Core.dll
+E:\Study\6th\vp\practicals\Shoes Management store\Shoes Management store\bin\Debug\net8.0-windows\Microsoft.Web.WebView2.WinForms.dll
+E:\Study\6th\vp\practicals\Shoes Management store\Shoes Management store\bin\Debug\net8.0-windows\Microsoft.Web.WebView2.Wpf.dll
+E:\Study\6th\vp\practicals\Shoes Management store\Shoes Management store\bin\Debug\net8.0-windows\System.Data.SqlClient.dll
+E:\Study\6th\vp\practicals\Shoes Management store\Shoes Management store\bin\Debug\net8.0-windows\System.IdentityModel.Tokens.Jwt.dll
+E:\Study\6th\vp\practicals\Shoes Management store\Shoes Management store\bin\Debug\net8.0-windows\System.Memory.Data.dll
+E:\Study\6th\vp\practicals\Shoes Management store\Shoes Management store\bin\Debug\net8.0-windows\System.Runtime.Caching.dll
+E:\Study\6th\vp\practicals\Shoes Management store\Shoes Management store\bin\Debug\net8.0-windows\de\Microsoft.Data.SqlClient.resources.dll
+E:\Study\6th\vp\practicals\Shoes Management store\Shoes Management store\bin\Debug\net8.0-windows\es\Microsoft.Data.SqlClient.resources.dll
+E:\Study\6th\vp\practicals\Shoes Management store\Shoes Management store\bin\Debug\net8.0-windows\fr\Microsoft.Data.SqlClient.resources.dll
+E:\Study\6th\vp\practicals\Shoes Management store\Shoes Management store\bin\Debug\net8.0-windows\it\Microsoft.Data.SqlClient.resources.dll
+E:\Study\6th\vp\practicals\Shoes Management store\Shoes Management store\bin\Debug\net8.0-windows\ja\Microsoft.Data.SqlClient.resources.dll
+E:\Study\6th\vp\practicals\Shoes Management store\Shoes Management store\bin\Debug\net8.0-windows\ko\Microsoft.Data.SqlClient.resources.dll
+E:\Study\6th\vp\practicals\Shoes Management store\Shoes Management store\bin\Debug\net8.0-windows\pt-BR\Microsoft.Data.SqlClient.resources.dll
+E:\Study\6th\vp\practicals\Shoes Management store\Shoes Management store\bin\Debug\net8.0-windows\ru\Microsoft.Data.SqlClient.resources.dll
+E:\Study\6th\vp\practicals\Shoes Management store\Shoes Management store\bin\Debug\net8.0-windows\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+E:\Study\6th\vp\practicals\Shoes Management store\Shoes Management store\bin\Debug\net8.0-windows\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+E:\Study\6th\vp\practicals\Shoes Management store\Shoes Management store\bin\Debug\net8.0-windows\runtimes\unix\lib\net8.0\Microsoft.Data.SqlClient.dll
+E:\Study\6th\vp\practicals\Shoes Management store\Shoes Management store\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\Microsoft.Data.SqlClient.dll
+E:\Study\6th\vp\practicals\Shoes Management store\Shoes Management store\bin\Debug\net8.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Study\6th\vp\practicals\Shoes Management store\Shoes Management store\bin\Debug\net8.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Study\6th\vp\practicals\Shoes Management store\Shoes Management store\bin\Debug\net8.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Study\6th\vp\practicals\Shoes Management store\Shoes Management store\bin\Debug\net8.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Study\6th\vp\practicals\Shoes Management store\Shoes Management store\bin\Debug\net8.0-windows\runtimes\win-arm64\native\msalruntime_arm64.dll
+E:\Study\6th\vp\practicals\Shoes Management store\Shoes Management store\bin\Debug\net8.0-windows\runtimes\win-x64\native\msalruntime.dll
+E:\Study\6th\vp\practicals\Shoes Management store\Shoes Management store\bin\Debug\net8.0-windows\runtimes\win-x86\native\msalruntime_x86.dll
+E:\Study\6th\vp\practicals\Shoes Management store\Shoes Management store\bin\Debug\net8.0-windows\runtimes\win-arm64\native\WebView2Loader.dll
+E:\Study\6th\vp\practicals\Shoes Management store\Shoes Management store\bin\Debug\net8.0-windows\runtimes\win-x64\native\WebView2Loader.dll
+E:\Study\6th\vp\practicals\Shoes Management store\Shoes Management store\bin\Debug\net8.0-windows\runtimes\win-x86\native\WebView2Loader.dll
+E:\Study\6th\vp\practicals\Shoes Management store\Shoes Management store\bin\Debug\net8.0-windows\runtimes\win-arm64\native\sni.dll
+E:\Study\6th\vp\practicals\Shoes Management store\Shoes Management store\bin\Debug\net8.0-windows\runtimes\win-x64\native\sni.dll
+E:\Study\6th\vp\practicals\Shoes Management store\Shoes Management store\bin\Debug\net8.0-windows\runtimes\win-x86\native\sni.dll
+E:\Study\6th\vp\practicals\Shoes Management store\Shoes Management store\bin\Debug\net8.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+E:\Study\6th\vp\practicals\Shoes Management store\Shoes Management store\bin\Debug\net8.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+E:\Study\6th\vp\practicals\Shoes Management store\Shoes Management store\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Runtime.Caching.dll
+E:\Study\6th\vp\practicals\Shoes Management store\Shoes Management store\obj\Debug\net8.0-windows\Shoes Management store.csproj.AssemblyReference.cache
+E:\Study\6th\vp\practicals\Shoes Management store\Shoes Management store\obj\Debug\net8.0-windows\Shoes Ma.097C47C8.Up2Date
+E:\Study\6th\vp\practicals\Shoes Management store\Shoes Management store\obj\Debug\net8.0-windows\Shoes_Management_store.Properties.Resources.resources
+E:\Study\6th\vp\practicals\Project\Shoes Management store\Shoes Management store\bin\Debug\net8.0-windows\Shoes Management store.exe
+E:\Study\6th\vp\practicals\Project\Shoes Management store\Shoes Management store\bin\Debug\net8.0-windows\Shoes Management store.deps.json
+E:\Study\6th\vp\practicals\Project\Shoes Management store\Shoes Management store\bin\Debug\net8.0-windows\Shoes Management store.runtimeconfig.json
+E:\Study\6th\vp\practicals\Project\Shoes Management store\Shoes Management store\bin\Debug\net8.0-windows\Shoes Management store.dll
+E:\Study\6th\vp\practicals\Project\Shoes Management store\Shoes Management store\bin\Debug\net8.0-windows\Shoes Management store.pdb
+E:\Study\6th\vp\practicals\Project\Shoes Management store\Shoes Management store\bin\Debug\net8.0-windows\Azure.Core.dll
+E:\Study\6th\vp\practicals\Project\Shoes Management store\Shoes Management store\bin\Debug\net8.0-windows\Azure.Identity.dll
+E:\Study\6th\vp\practicals\Project\Shoes Management store\Shoes Management store\bin\Debug\net8.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+E:\Study\6th\vp\practicals\Project\Shoes Management store\Shoes Management store\bin\Debug\net8.0-windows\Microsoft.Data.SqlClient.dll
+E:\Study\6th\vp\practicals\Project\Shoes Management store\Shoes Management store\bin\Debug\net8.0-windows\Microsoft.Identity.Client.dll
+E:\Study\6th\vp\practicals\Project\Shoes Management store\Shoes Management store\bin\Debug\net8.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+E:\Study\6th\vp\practicals\Project\Shoes Management store\Shoes Management store\bin\Debug\net8.0-windows\Microsoft.Identity.Client.NativeInterop.dll
+E:\Study\6th\vp\practicals\Project\Shoes Management store\Shoes Management store\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Abstractions.dll
+E:\Study\6th\vp\practicals\Project\Shoes Management store\Shoes Management store\bin\Debug\net8.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\Study\6th\vp\practicals\Project\Shoes Management store\Shoes Management store\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Logging.dll
+E:\Study\6th\vp\practicals\Project\Shoes Management store\Shoes Management store\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.dll
+E:\Study\6th\vp\practicals\Project\Shoes Management store\Shoes Management store\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\Study\6th\vp\practicals\Project\Shoes Management store\Shoes Management store\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Tokens.dll
+E:\Study\6th\vp\practicals\Project\Shoes Management store\Shoes Management store\bin\Debug\net8.0-windows\Microsoft.SqlServer.Server.dll
+E:\Study\6th\vp\practicals\Project\Shoes Management store\Shoes Management store\bin\Debug\net8.0-windows\Microsoft.Web.WebView2.Core.dll
+E:\Study\6th\vp\practicals\Project\Shoes Management store\Shoes Management store\bin\Debug\net8.0-windows\Microsoft.Web.WebView2.WinForms.dll
+E:\Study\6th\vp\practicals\Project\Shoes Management store\Shoes Management store\bin\Debug\net8.0-windows\Microsoft.Web.WebView2.Wpf.dll
+E:\Study\6th\vp\practicals\Project\Shoes Management store\Shoes Management store\bin\Debug\net8.0-windows\System.Data.SqlClient.dll
+E:\Study\6th\vp\practicals\Project\Shoes Management store\Shoes Management store\bin\Debug\net8.0-windows\System.IdentityModel.Tokens.Jwt.dll
+E:\Study\6th\vp\practicals\Project\Shoes Management store\Shoes Management store\bin\Debug\net8.0-windows\System.Memory.Data.dll
+E:\Study\6th\vp\practicals\Project\Shoes Management store\Shoes Management store\bin\Debug\net8.0-windows\System.Runtime.Caching.dll
+E:\Study\6th\vp\practicals\Project\Shoes Management store\Shoes Management store\bin\Debug\net8.0-windows\de\Microsoft.Data.SqlClient.resources.dll
+E:\Study\6th\vp\practicals\Project\Shoes Management store\Shoes Management store\bin\Debug\net8.0-windows\es\Microsoft.Data.SqlClient.resources.dll
+E:\Study\6th\vp\practicals\Project\Shoes Management store\Shoes Management store\bin\Debug\net8.0-windows\fr\Microsoft.Data.SqlClient.resources.dll
+E:\Study\6th\vp\practicals\Project\Shoes Management store\Shoes Management store\bin\Debug\net8.0-windows\it\Microsoft.Data.SqlClient.resources.dll
+E:\Study\6th\vp\practicals\Project\Shoes Management store\Shoes Management store\bin\Debug\net8.0-windows\ja\Microsoft.Data.SqlClient.resources.dll
+E:\Study\6th\vp\practicals\Project\Shoes Management store\Shoes Management store\bin\Debug\net8.0-windows\ko\Microsoft.Data.SqlClient.resources.dll
+E:\Study\6th\vp\practicals\Project\Shoes Management store\Shoes Management store\bin\Debug\net8.0-windows\pt-BR\Microsoft.Data.SqlClient.resources.dll
+E:\Study\6th\vp\practicals\Project\Shoes Management store\Shoes Management store\bin\Debug\net8.0-windows\ru\Microsoft.Data.SqlClient.resources.dll
+E:\Study\6th\vp\practicals\Project\Shoes Management store\Shoes Management store\bin\Debug\net8.0-windows\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+E:\Study\6th\vp\practicals\Project\Shoes Management store\Shoes Management store\bin\Debug\net8.0-windows\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+E:\Study\6th\vp\practicals\Project\Shoes Management store\Shoes Management store\bin\Debug\net8.0-windows\runtimes\unix\lib\net8.0\Microsoft.Data.SqlClient.dll
+E:\Study\6th\vp\practicals\Project\Shoes Management store\Shoes Management store\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\Microsoft.Data.SqlClient.dll
+E:\Study\6th\vp\practicals\Project\Shoes Management store\Shoes Management store\bin\Debug\net8.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Study\6th\vp\practicals\Project\Shoes Management store\Shoes Management store\bin\Debug\net8.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Study\6th\vp\practicals\Project\Shoes Management store\Shoes Management store\bin\Debug\net8.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Study\6th\vp\practicals\Project\Shoes Management store\Shoes Management store\bin\Debug\net8.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Study\6th\vp\practicals\Project\Shoes Management store\Shoes Management store\bin\Debug\net8.0-windows\runtimes\win-arm64\native\msalruntime_arm64.dll
+E:\Study\6th\vp\practicals\Project\Shoes Management store\Shoes Management store\bin\Debug\net8.0-windows\runtimes\win-x64\native\msalruntime.dll
+E:\Study\6th\vp\practicals\Project\Shoes Management store\Shoes Management store\bin\Debug\net8.0-windows\runtimes\win-x86\native\msalruntime_x86.dll
+E:\Study\6th\vp\practicals\Project\Shoes Management store\Shoes Management store\bin\Debug\net8.0-windows\runtimes\win-arm64\native\WebView2Loader.dll
+E:\Study\6th\vp\practicals\Project\Shoes Management store\Shoes Management store\bin\Debug\net8.0-windows\runtimes\win-x64\native\WebView2Loader.dll
+E:\Study\6th\vp\practicals\Project\Shoes Management store\Shoes Management store\bin\Debug\net8.0-windows\runtimes\win-x86\native\WebView2Loader.dll
+E:\Study\6th\vp\practicals\Project\Shoes Management store\Shoes Management store\bin\Debug\net8.0-windows\runtimes\win-arm64\native\sni.dll
+E:\Study\6th\vp\practicals\Project\Shoes Management store\Shoes Management store\bin\Debug\net8.0-windows\runtimes\win-x64\native\sni.dll
+E:\Study\6th\vp\practicals\Project\Shoes Management store\Shoes Management store\bin\Debug\net8.0-windows\runtimes\win-x86\native\sni.dll
+E:\Study\6th\vp\practicals\Project\Shoes Management store\Shoes Management store\bin\Debug\net8.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+E:\Study\6th\vp\practicals\Project\Shoes Management store\Shoes Management store\bin\Debug\net8.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+E:\Study\6th\vp\practicals\Project\Shoes Management store\Shoes Management store\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Runtime.Caching.dll
+E:\Study\6th\vp\practicals\Project\Shoes Management store\Shoes Management store\obj\Debug\net8.0-windows\Shoes Management store.csproj.AssemblyReference.cache
+E:\Study\6th\vp\practicals\Project\Shoes Management store\Shoes Management store\obj\Debug\net8.0-windows\Shoes_Management_store.Customer.resources
+E:\Study\6th\vp\practicals\Project\Shoes Management store\Shoes Management store\obj\Debug\net8.0-windows\Shoes_Management_store.Form1.resources
+E:\Study\6th\vp\practicals\Project\Shoes Management store\Shoes Management store\obj\Debug\net8.0-windows\Shoes_Management_store.Home.resources
+E:\Study\6th\vp\practicals\Project\Shoes Management store\Shoes Management store\obj\Debug\net8.0-windows\Shoes_Management_store.Invantory.resources
+E:\Study\6th\vp\practicals\Project\Shoes Management store\Shoes Management store\obj\Debug\net8.0-windows\Shoes_Management_store.Properties.Resources.resources
+E:\Study\6th\vp\practicals\Project\Shoes Management store\Shoes Management store\obj\Debug\net8.0-windows\Shoes_Management_store.Report.resources
+E:\Study\6th\vp\practicals\Project\Shoes Management store\Shoes Management store\obj\Debug\net8.0-windows\Shoes_Management_store.Sales.resources
+E:\Study\6th\vp\practicals\Project\Shoes Management store\Shoes Management store\obj\Debug\net8.0-windows\Shoes Management store.csproj.GenerateResource.cache
+E:\Study\6th\vp\practicals\Project\Shoes Management store\Shoes Management store\obj\Debug\net8.0-windows\Shoes Management store.GeneratedMSBuildEditorConfig.editorconfig
+E:\Study\6th\vp\practicals\Project\Shoes Management store\Shoes Management store\obj\Debug\net8.0-windows\Shoes Management store.AssemblyInfoInputs.cache
+E:\Study\6th\vp\practicals\Project\Shoes Management store\Shoes Management store\obj\Debug\net8.0-windows\Shoes Management store.AssemblyInfo.cs
+E:\Study\6th\vp\practicals\Project\Shoes Management store\Shoes Management store\obj\Debug\net8.0-windows\Shoes Management store.csproj.CoreCompileInputs.cache
+E:\Study\6th\vp\practicals\Project\Shoes Management store\Shoes Management store\obj\Debug\net8.0-windows\Shoes Ma.097C47C8.Up2Date
+E:\Study\6th\vp\practicals\Project\Shoes Management store\Shoes Management store\obj\Debug\net8.0-windows\Shoes Management store.dll
+E:\Study\6th\vp\practicals\Project\Shoes Management store\Shoes Management store\obj\Debug\net8.0-windows\refint\Shoes Management store.dll
+E:\Study\6th\vp\practicals\Project\Shoes Management store\Shoes Management store\obj\Debug\net8.0-windows\Shoes Management store.pdb
+E:\Study\6th\vp\practicals\Project\Shoes Management store\Shoes Management store\obj\Debug\net8.0-windows\Shoes Management store.genruntimeconfig.cache
+E:\Study\6th\vp\practicals\Project\Shoes Management store\Shoes Management store\obj\Debug\net8.0-windows\ref\Shoes Management store.dll
